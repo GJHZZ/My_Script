@@ -106,7 +106,7 @@ class FinishQuestion(object):
                     self.logger('Class : %s' % result['Class'])
                     self.logger('Score : %s' % result['Score'])
                     self.logger('========== class finished =========\n')
-                    time.sleep(0.5)
+
         #             print(self.finish_info)
         # print(test_list)
         # for count in range(len(test_list) -1):
@@ -132,7 +132,6 @@ class FinishQuestion(object):
         isend = 0
         score = 0
         while True:
-            time.sleep(0.1)
 
             data = {
                 "examinationId": self.finish_info['class'],
