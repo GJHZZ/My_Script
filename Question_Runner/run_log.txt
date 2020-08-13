@@ -1,1680 +1,396 @@
-
-========== class start ==========
-Finish : 18
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Error
-Question: 20 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文初级练习
-Score : 90
-========== class finished =========
-
-
-========== class start ==========
-Finish : 38
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Error
-Question: 40 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文初级测评
-Score : 190
-========== class finished =========
-
-
-========== class start ==========
-Finish : 19
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文中级练习
-Score : 95
-========== class finished =========
-
-
-========== class start ==========
-Finish : 37
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Error
-Question: 39 == Type: 填空题 == Result: Error
-Question: 40 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文中级测评
-Score : 185
-========== class finished =========
-
-
-========== class start ==========
-Finish : 19
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文高级练习
-Score : 95
-========== class finished =========
-
-
-========== class start ==========
-Finish : 39
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Error
-
-Teacher : 杨冰
-Class : 小学语文高级测评
-Score : 195
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学数学高级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 小学英语高级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育政策高级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 教育理论高级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 儿童心理高级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理初级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理初级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理中级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理中级测评
-Score : 200
-========== class finished =========
-
-
-========== class start ==========
-Finish : 20
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 多选题 == Result: Right
-Question: 7 == Type: 多选题 == Result: Right
-Question: 8 == Type: 判断题 == Result: Right
-Question: 9 == Type: 判断题 == Result: Right
-Question: 10 == Type: 判断题 == Result: Right
-Question: 11 == Type: 判断题 == Result: Right
-Question: 12 == Type: 判断题 == Result: Right
-Question: 13 == Type: 判断题 == Result: Right
-Question: 14 == Type: 判断题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 填空题 == Result: Right
-Question: 19 == Type: 填空题 == Result: Right
-Question: 20 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理高级练习
-Score : 100
-========== class finished =========
-
-
-========== class start ==========
-Finish : 40
-
-Question: 1 == Type: 单选题 == Result: Right
-Question: 2 == Type: 单选题 == Result: Right
-Question: 3 == Type: 单选题 == Result: Right
-Question: 4 == Type: 单选题 == Result: Right
-Question: 5 == Type: 单选题 == Result: Right
-Question: 6 == Type: 单选题 == Result: Right
-Question: 7 == Type: 单选题 == Result: Right
-Question: 8 == Type: 单选题 == Result: Right
-Question: 9 == Type: 单选题 == Result: Right
-Question: 10 == Type: 单选题 == Result: Right
-Question: 11 == Type: 多选题 == Result: Right
-Question: 12 == Type: 多选题 == Result: Right
-Question: 13 == Type: 多选题 == Result: Right
-Question: 14 == Type: 多选题 == Result: Right
-Question: 15 == Type: 判断题 == Result: Right
-Question: 16 == Type: 判断题 == Result: Right
-Question: 17 == Type: 判断题 == Result: Right
-Question: 18 == Type: 判断题 == Result: Right
-Question: 19 == Type: 判断题 == Result: Right
-Question: 20 == Type: 判断题 == Result: Right
-Question: 21 == Type: 判断题 == Result: Right
-Question: 22 == Type: 判断题 == Result: Right
-Question: 23 == Type: 判断题 == Result: Right
-Question: 24 == Type: 判断题 == Result: Right
-Question: 25 == Type: 判断题 == Result: Right
-Question: 26 == Type: 判断题 == Result: Right
-Question: 27 == Type: 判断题 == Result: Right
-Question: 28 == Type: 判断题 == Result: Right
-Question: 29 == Type: 判断题 == Result: Right
-Question: 30 == Type: 判断题 == Result: Right
-Question: 31 == Type: 判断题 == Result: Right
-Question: 32 == Type: 判断题 == Result: Right
-Question: 33 == Type: 判断题 == Result: Right
-Question: 34 == Type: 判断题 == Result: Right
-Question: 35 == Type: 填空题 == Result: Right
-Question: 36 == Type: 填空题 == Result: Right
-Question: 37 == Type: 填空题 == Result: Right
-Question: 38 == Type: 填空题 == Result: Right
-Question: 39 == Type: 填空题 == Result: Right
-Question: 40 == Type: 填空题 == Result: Right
-
-Teacher : 杨冰
-Class : 班级管理高级测评
-Score : 200
-========== class finished =========
-
+[INFO]
+[INFO]
+[INFO] === Class : 小学语文
+[ERROR] Have not class!
+[INFO]
+[INFO]
+[INFO] === Class : 小学数学
+[ERROR] Have not class!
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 1
+[INFO] === Class type : 0
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 多选题 == Result: Error
+[INFO] Question: 7 == Type: 多选题 == Result: Error
+[INFO] Question: 8 == Type: 判断题 == Result: Error
+[INFO] Question: 9 == Type: 判断题 == Result: Error
+[INFO] Question: 10 == Type: 判断题 == Result: Error
+[INFO] Question: 11 == Type: 判断题 == Result: Error
+[INFO] Question: 12 == Type: 判断题 == Result: Error
+[INFO] Question: 13 == Type: 判断题 == Result: Error
+[INFO] Question: 14 == Type: 判断题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 填空题 == Result: Error
+[INFO] Question: 19 == Type: 填空题 == Result: Error
+[INFO] Question: 20 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语初级练习
+[INFO] Score : 25
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 1
+[INFO] === Class type : 1
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 单选题 == Result: Right
+[INFO] Question: 7 == Type: 单选题 == Result: Right
+[INFO] Question: 8 == Type: 单选题 == Result: Right
+[INFO] Question: 9 == Type: 单选题 == Result: Right
+[INFO] Question: 10 == Type: 单选题 == Result: Right
+[INFO] Question: 11 == Type: 多选题 == Result: Error
+[INFO] Question: 12 == Type: 多选题 == Result: Error
+[INFO] Question: 13 == Type: 多选题 == Result: Error
+[INFO] Question: 14 == Type: 多选题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 判断题 == Result: Error
+[INFO] Question: 19 == Type: 判断题 == Result: Error
+[INFO] Question: 20 == Type: 判断题 == Result: Error
+[INFO] Question: 21 == Type: 判断题 == Result: Error
+[INFO] Question: 22 == Type: 判断题 == Result: Error
+[INFO] Question: 23 == Type: 判断题 == Result: Error
+[INFO] Question: 24 == Type: 判断题 == Result: Error
+[INFO] Question: 25 == Type: 判断题 == Result: Error
+[INFO] Question: 26 == Type: 判断题 == Result: Error
+[INFO] Question: 27 == Type: 判断题 == Result: Error
+[INFO] Question: 28 == Type: 判断题 == Result: Error
+[INFO] Question: 29 == Type: 判断题 == Result: Error
+[INFO] Question: 30 == Type: 判断题 == Result: Error
+[INFO] Question: 31 == Type: 判断题 == Result: Error
+[INFO] Question: 32 == Type: 判断题 == Result: Error
+[INFO] Question: 33 == Type: 判断题 == Result: Error
+[INFO] Question: 34 == Type: 判断题 == Result: Error
+[INFO] Question: 35 == Type: 填空题 == Result: Error
+[INFO] Question: 36 == Type: 填空题 == Result: Error
+[INFO] Question: 37 == Type: 填空题 == Result: Error
+[INFO] Question: 38 == Type: 填空题 == Result: Error
+[INFO] Question: 39 == Type: 填空题 == Result: Error
+[INFO] Question: 40 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语初级测评
+[INFO] Score : 30
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 2
+[INFO] === Class type : 0
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 多选题 == Result: Error
+[INFO] Question: 7 == Type: 多选题 == Result: Error
+[INFO] Question: 8 == Type: 判断题 == Result: Error
+[INFO] Question: 9 == Type: 判断题 == Result: Error
+[INFO] Question: 10 == Type: 判断题 == Result: Error
+[INFO] Question: 11 == Type: 判断题 == Result: Error
+[INFO] Question: 12 == Type: 判断题 == Result: Error
+[INFO] Question: 13 == Type: 判断题 == Result: Error
+[INFO] Question: 14 == Type: 判断题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 填空题 == Result: Error
+[INFO] Question: 19 == Type: 填空题 == Result: Error
+[INFO] Question: 20 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语中级练习
+[INFO] Score : 25
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 2
+[INFO] === Class type : 1
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 单选题 == Result: Right
+[INFO] Question: 7 == Type: 单选题 == Result: Right
+[INFO] Question: 8 == Type: 单选题 == Result: Right
+[INFO] Question: 9 == Type: 单选题 == Result: Right
+[INFO] Question: 10 == Type: 单选题 == Result: Right
+[INFO] Question: 11 == Type: 多选题 == Result: Error
+[INFO] Question: 12 == Type: 多选题 == Result: Error
+[INFO] Question: 13 == Type: 多选题 == Result: Error
+[INFO] Question: 14 == Type: 多选题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 判断题 == Result: Error
+[INFO] Question: 19 == Type: 判断题 == Result: Error
+[INFO] Question: 20 == Type: 判断题 == Result: Error
+[INFO] Question: 21 == Type: 判断题 == Result: Error
+[INFO] Question: 22 == Type: 判断题 == Result: Error
+[INFO] Question: 23 == Type: 判断题 == Result: Error
+[INFO] Question: 24 == Type: 判断题 == Result: Error
+[INFO] Question: 25 == Type: 判断题 == Result: Error
+[INFO] Question: 26 == Type: 判断题 == Result: Error
+[INFO] Question: 27 == Type: 判断题 == Result: Error
+[INFO] Question: 28 == Type: 判断题 == Result: Error
+[INFO] Question: 29 == Type: 判断题 == Result: Error
+[INFO] Question: 30 == Type: 判断题 == Result: Error
+[INFO] Question: 31 == Type: 判断题 == Result: Error
+[INFO] Question: 32 == Type: 判断题 == Result: Error
+[INFO] Question: 33 == Type: 判断题 == Result: Error
+[INFO] Question: 34 == Type: 判断题 == Result: Error
+[INFO] Question: 35 == Type: 填空题 == Result: Error
+[INFO] Question: 36 == Type: 填空题 == Result: Error
+[INFO] Question: 37 == Type: 填空题 == Result: Error
+[INFO] Question: 38 == Type: 填空题 == Result: Error
+[INFO] Question: 39 == Type: 填空题 == Result: Error
+[INFO] Question: 40 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语中级测评
+[INFO] Score : 30
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 3
+[INFO] === Class type : 0
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 多选题 == Result: Error
+[INFO] Question: 7 == Type: 多选题 == Result: Error
+[INFO] Question: 8 == Type: 判断题 == Result: Error
+[INFO] Question: 9 == Type: 判断题 == Result: Error
+[INFO] Question: 10 == Type: 判断题 == Result: Error
+[INFO] Question: 11 == Type: 判断题 == Result: Error
+[INFO] Question: 12 == Type: 判断题 == Result: Error
+[INFO] Question: 13 == Type: 判断题 == Result: Error
+[INFO] Question: 14 == Type: 判断题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 填空题 == Result: Error
+[INFO] Question: 19 == Type: 填空题 == Result: Error
+[INFO] Question: 20 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语高级练习
+[INFO] Score : 25
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学英语
+[INFO] === Class level : 3
+[INFO] === Class type : 1
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 单选题 == Result: Right
+[INFO] Question: 7 == Type: 单选题 == Result: Right
+[INFO] Question: 8 == Type: 单选题 == Result: Right
+[INFO] Question: 9 == Type: 单选题 == Result: Right
+[INFO] Question: 10 == Type: 单选题 == Result: Right
+[INFO] Question: 11 == Type: 多选题 == Result: Error
+[INFO] Question: 12 == Type: 多选题 == Result: Error
+[INFO] Question: 13 == Type: 多选题 == Result: Error
+[INFO] Question: 14 == Type: 多选题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 判断题 == Result: Error
+[INFO] Question: 19 == Type: 判断题 == Result: Error
+[INFO] Question: 20 == Type: 判断题 == Result: Error
+[INFO] Question: 21 == Type: 判断题 == Result: Error
+[INFO] Question: 22 == Type: 判断题 == Result: Error
+[INFO] Question: 23 == Type: 判断题 == Result: Error
+[INFO] Question: 24 == Type: 判断题 == Result: Error
+[INFO] Question: 25 == Type: 判断题 == Result: Error
+[INFO] Question: 26 == Type: 判断题 == Result: Error
+[INFO] Question: 27 == Type: 判断题 == Result: Error
+[INFO] Question: 28 == Type: 判断题 == Result: Error
+[INFO] Question: 29 == Type: 判断题 == Result: Error
+[INFO] Question: 30 == Type: 判断题 == Result: Error
+[INFO] Question: 31 == Type: 判断题 == Result: Error
+[INFO] Question: 32 == Type: 判断题 == Result: Error
+[INFO] Question: 33 == Type: 判断题 == Result: Error
+[INFO] Question: 34 == Type: 判断题 == Result: Error
+[INFO] Question: 35 == Type: 填空题 == Result: Error
+[INFO] Question: 36 == Type: 填空题 == Result: Error
+[INFO] Question: 37 == Type: 填空题 == Result: Error
+[INFO] Question: 38 == Type: 填空题 == Result: Error
+[INFO] Question: 39 == Type: 填空题 == Result: Error
+[INFO] Question: 40 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 小学英语高级测评
+[INFO] Score : 30
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 小学科学
+[ERROR] Class unavailable!
+[INFO]
+[INFO]
+[INFO] === Class : 教育政策
+[INFO] === Class level : 1
+[INFO] === Class type : 0
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 多选题 == Result: Error
+[INFO] Question: 7 == Type: 多选题 == Result: Error
+[INFO] Question: 8 == Type: 判断题 == Result: Error
+[INFO] Question: 9 == Type: 判断题 == Result: Error
+[INFO] Question: 10 == Type: 判断题 == Result: Error
+[INFO] Question: 11 == Type: 判断题 == Result: Error
+[INFO] Question: 12 == Type: 判断题 == Result: Error
+[INFO] Question: 13 == Type: 判断题 == Result: Error
+[INFO] Question: 14 == Type: 判断题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 填空题 == Result: Error
+[INFO] Question: 19 == Type: 填空题 == Result: Error
+[INFO] Question: 20 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 教育政策初级练习
+[INFO] Score : 25
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 教育政策
+[INFO] === Class level : 1
+[INFO] === Class type : 1
+[INFO] === Start test ========
+[INFO] Question: 1 == Type: 单选题 == Result: Right
+[INFO] Question: 2 == Type: 单选题 == Result: Right
+[INFO] Question: 3 == Type: 单选题 == Result: Right
+[INFO] Question: 4 == Type: 单选题 == Result: Right
+[INFO] Question: 5 == Type: 单选题 == Result: Right
+[INFO] Question: 6 == Type: 单选题 == Result: Right
+[INFO] Question: 7 == Type: 单选题 == Result: Right
+[INFO] Question: 8 == Type: 单选题 == Result: Right
+[INFO] Question: 9 == Type: 单选题 == Result: Right
+[INFO] Question: 10 == Type: 单选题 == Result: Right
+[INFO] Question: 11 == Type: 多选题 == Result: Error
+[INFO] Question: 12 == Type: 多选题 == Result: Error
+[INFO] Question: 13 == Type: 多选题 == Result: Error
+[INFO] Question: 14 == Type: 多选题 == Result: Error
+[INFO] Question: 15 == Type: 判断题 == Result: Error
+[INFO] Question: 16 == Type: 判断题 == Result: Error
+[INFO] Question: 17 == Type: 判断题 == Result: Error
+[INFO] Question: 18 == Type: 判断题 == Result: Error
+[INFO] Question: 19 == Type: 判断题 == Result: Error
+[INFO] Question: 20 == Type: 判断题 == Result: Error
+[INFO] Question: 21 == Type: 判断题 == Result: Error
+[INFO] Question: 22 == Type: 判断题 == Result: Error
+[INFO] Question: 23 == Type: 判断题 == Result: Error
+[INFO] Question: 24 == Type: 判断题 == Result: Error
+[INFO] Question: 25 == Type: 判断题 == Result: Error
+[INFO] Question: 26 == Type: 判断题 == Result: Error
+[INFO] Question: 27 == Type: 判断题 == Result: Error
+[INFO] Question: 28 == Type: 判断题 == Result: Error
+[INFO] Question: 29 == Type: 判断题 == Result: Error
+[INFO] Question: 30 == Type: 判断题 == Result: Error
+[INFO] Question: 31 == Type: 判断题 == Result: Error
+[INFO] Question: 32 == Type: 判断题 == Result: Error
+[INFO] Question: 33 == Type: 判断题 == Result: Error
+[INFO] Question: 34 == Type: 判断题 == Result: Error
+[INFO] Question: 35 == Type: 填空题 == Result: Error
+[INFO] Question: 36 == Type: 填空题 == Result: Error
+[INFO] Question: 37 == Type: 填空题 == Result: Error
+[INFO] Question: 38 == Type: 填空题 == Result: Error
+[INFO] Question: 39 == Type: 填空题 == Result: Error
+[INFO] Question: 40 == Type: 填空题 == Result: Error
+[INFO] Status : 0
+[INFO] Teacher : 13088880061
+[INFO] Class : 教育政策初级测评
+[INFO] Score : 30
+[INFO] === Complite ==========
+[INFO]
+[INFO]
+[INFO]
+[INFO]
+[INFO] === Class : 教育政策
+[INFO] === Class level : 2
+[INFO] === Class type : 0
+[ERROR] Cion not enough!
+[INFO]
+[INFO]
+[INFO] === Class : 教育理论
+[INFO] === Class level : 1
+[INFO] === Class type : 0
+[ERROR] Cion not enough!
+[INFO]
+[INFO]
+[INFO] === Class : 儿童心理
+[INFO] === Class level : 1
+[INFO] === Class type : 0
+[ERROR] Cion not enough!
+[INFO]
+[INFO]
+[INFO] === Class : 班级管理
+[INFO] === Class level : 1
+[INFO] === Class type : 0
+[ERROR] Cion not enough!
+[INFO]
+[INFO]
+[INFO] === Class : 教学改进
+[ERROR] Class unavailable!
+[INFO]
+[INFO]
+[INFO] === Class : 传统文化
+[ERROR] Class unavailable!
+[INFO]
+[INFO]
+[INFO] === Class : 艺术美育
+[ERROR] Class unavailable!
+[INFO]
+[INFO]
+[INFO] === Class : 人文科技
+[ERROR] Class unavailable!

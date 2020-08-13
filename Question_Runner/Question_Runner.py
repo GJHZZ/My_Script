@@ -3,174 +3,279 @@
 # update: 2020 07 31
 
 import os
+import sys
 import time
 import requests
 import json
 import urllib3
+import traceback
+import configparser
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 
 class FinishQuestion(object):
 
     def __init__(self, config_info, logger):
         self.logger = logger
         self.url = config_info['config']['url']
-        self.token = config_info['config']['token']
-        self.finish_dict = config_info
-        self.class_dict = {
-            'chniese': {
-                '1': 131,
-                '2': 132,
-                '3': 157,
-                '4': 158,
-                '5': 183,
-                '6': 184,
-            },
-            'math': {
-                '1': 133,
-                '2': 134,
-                '3': 159,
-                '4': 160,
-                '5': 185,
-                '6': 186,
-            },
-            'english': {
-                '1': 135,
-                '2': 136,
-                '3': 161,
-                '4': 162,
-                '5': 187,
-                '6': 188,
-            },
-            'science': {
-                '1': 248,
-                '2': 138,
-                '3': 163,
-                '4': 164,
-                '5': 189,
-                '6': 190,
-            },
-            'policy': {
-                '1': 139,
-                '2': 140,
-                '3': 165,
-                '4': 166,
-                '5': 191,
-                '6': 192,
-            },
-            'theory': {
-                '1': 141,
-                '2': 142,
-                '3': 167,
-                '4': 168,
-                '5': 193,
-                '6': 194,
-            },
-            'psychological': {
-                '1': 143,
-                '2': 144,
-                '3': 169,
-                '4': 170,
-                '5': 195,
-                '6': 196,
-            },
-            'management': {
-                '1': 145,
-                '2': 146,
-                '3': 171,
-                '4': 172,
-                '5': 197,
-                '6': 198,
-            },
-        }
-        self.finish_info = {
-            'class': 0,
-            'finish_num': 0,
-            'error_num': 0
-        }
-    
-    def finish_class(self):
-        test_list = []
-
-        for i in self.finish_dict:
-            if i == 'config':
-                continue
-            for j in self.finish_dict[i]:
-                if self.finish_dict[i][j][0] == 1:
-                    self.finish_info['class'] = self.class_dict[i][j]
-                    self.finish_info['finish_num'] = self.finish_dict[i][j][1]
-                    test_list.append(self.finish_info['class'])
-                    self.logger('\n========== class start ==========')
-                    self.logger('Finish : %s\n' % self.finish_info['finish_num'])
-                    result = self.finish_test()
-                    self.logger('\nTeacher : %s' % result['Teacher'])
-                    self.logger('Class : %s' % result['Class'])
-                    self.logger('Score : %s' % result['Score'])
-                    self.logger('========== class finished =========\n')
-
-        #             print(self.finish_info)
-        # print(test_list)
-        # for count in range(len(test_list) -1):
-        #     for times in range(len(test_list) - count - 1):
-        #         if test_list[times] > test_list[times + 1]:
-        #             test_list[times], test_list[times + 1] = test_list[times + 1], test_list[times]
-        # print(test_list)
-    
-    def finish_test(self):
-        url = "https://%s/tps/api/question/questionList" % self.url
-        headers = {
-            "token": self.token,
+        self.headers = {
+            "token": config_info['config']['token'],
             "Content-Type": "application/json;charset=UTF-8"
         }
-        chose = ""
-        haveAnswer = 0
-        questionId = ""
-        questionTypeId = 1
-        questionTypeName = "单选题"
-        resultsId = ""
-        rightStatus = ""
-        useTime = 0
-        isend = 0
-        score = 0
-        while True:
+        self.config_info = config_info
+        self.class_type = {
+            '1': '教育政策',
+            '2': '教育理论',
+            '3': '儿童心理',
+            '4': '班级管理',
+            '5': '教学改进',
+            '6': '传统文化',
+            '7': '艺术美育',
+            '12': '人文科技',
+            '8': '小学语文',
+            '9': '小学数学',
+            '10': '小学英语',
+            '11': '小学科学',
+        }
+        self.test_type = {
+            '1': {
+                'level': '1',
+                'type': '0'
+            },
+            '2': {
+                'level': '1',
+                'type': '1'
+            },
+            '3': {
+                'level': '2',
+                'type': '0'
+            },
+            '4': {
+                'level': '2',
+                'type': '1'
+            },
+            '5': {
+                'level': '3',
+                'type': '0'
+            },
+            '6': {
+                'level': '3',
+                'type': '1'
+            },
+        }
+        self.status = 0
+    
+    def start_class(self):
+        url = 'https://%s/tps/api/user/mySpace' % self.url
+        data = {}
+        myspace_info = requests.post(
+            url, 
+            headers=self.headers, 
+            data=json.dumps(data, ensure_ascii=False).encode(), 
+            verify=False
+        ).json()['data']
 
-            data = {
-                "examinationId": self.finish_info['class'],
-                "type": 1,
-                "haveAnswer": haveAnswer,
-                "questionId": questionId,
-                "provinces": "",
-                "city": "",
-                "county": "",
-                "resultsId": resultsId,
-                "isend": isend,
-                "score": score,
-                "useTime": useTime,
-                "rightStatus": rightStatus,
-                "chose": chose,
-                "questionTypeId": questionTypeId,
-                "questionTypeName": questionTypeName
-            }
-            response = requests.post(url, headers=headers, data=json.dumps(data, ensure_ascii=False).encode(), verify=False)
-            if isend == 1:
+        if str(myspace_info['perfect']) == '1':
+            pass
+        else:
+            self.logger('* user info not complite!')
+            return
+
+        url = 'https://%s/tps/api/index/dimensionNameList' % self.url
+        data = {
+            "county": "",
+            "city": "",
+            "provinces": ""
+        }
+        myclass_info = requests.post(
+            url, 
+            headers=self.headers, 
+            data=json.dumps(data, ensure_ascii=False).encode(), 
+            verify=False
+        ).json()['data']
+
+        myclass_list = []
+        for class_id in myclass_info:
+            myclass_list.append(str(class_id['dimensionId']))
+
+        for class_id in self.config_info:
+            if class_id == 'config':
+                continue
+            
+            test_args = {}
+            test_args['class_id'] = class_id
+            test_args['class_name'] = self.class_type[class_id]
+
+            if class_id in ['5', '6', '7', '11', '12']:
+                self.logger('')
+                self.logger('')
+                self.logger(' === Class : %s' % test_args['class_name'])
+                self.logger('* Class unavailable!')
+                continue
+
+            if class_id not in myclass_list:
+                self.logger('')
+                self.logger('')
+                print(myclass_list)
+                self.logger(' === Class : %s' % test_args['class_name'])
+                self.logger('* Have not class!')
+                continue
+            
+            for test_id in self.config_info[class_id]:
+                url = 'http://%s/tps/api/index/courseList' % self.url
+                data = {
+                    "provinces":"null",
+                    "dimensionId":"%s" % test_args['class_id'],
+                    "city":"null",
+                    "county":"null",
+                    "dimension":"%s" % test_args['class_name']
+                }
+                class_info = requests.post(
+                    url, 
+                    headers=self.headers, 
+                    data=json.dumps(data, ensure_ascii=False).encode(), 
+                    verify=False
+                ).json()['data']
+                self.logger('')
+                self.logger('')
+                self.logger(' === Class : %s' % test_args['class_name'])
+                if len(class_info['courseList']) == 0 or 'courseList' not in class_info:
+                    self.logger('* Have not test!')
+                    break
+
+                test_args['test_id'] = test_id
+                test_args['test_level'] = self.test_type[test_id]['level']
+                test_args['test_type'] = self.test_type[test_id]['type']
+                test_args['test_num'] = int(self.config_info[class_id][test_id])
+                self.logger(' === Class level : %s' % test_args['test_level'])
+                self.logger(' === Class type : %s' % test_args['test_type'])
+
+                if test_args['test_level'] == '1' and test_args['test_type'] == '0':
+                    test_args['paper_id'] = class_info['courseList'][int(test_args['test_level']) - 1]['paperId']
+                else:
+                    if test_args['test_type'] == '0':
+                        if str(class_info['courseList'][int(test_args['test_level']) - 2]['courseDto']['testStatus']) == '1':
+                            test_args['paper_id'] = class_info['courseList'][int(test_args['test_level']) - 1]['paperId']
+                        else:
+                            self.logger('* Before test not pass!')
+                            break
+                    
+                    if test_args['test_type'] == '1':
+                        if str(class_info['courseList'][int(test_args['test_level']) - 1]['testStatus']) == '1':
+                            test_args['paper_id'] = class_info['courseList'][int(test_args['test_level']) - 1]['courseDto']['paperId']
+                        else:
+                            self.logger('* Before test not pass!')
+                            break
+                
+                if str(class_info['messageType']) == '1':
+                    pass
+                else:
+                    if test_args['test_type'] == '0' and int(class_info['practiceFrequency']) > 0:
+                        pass
+                    elif test_args['test_type'] == '1' and int(class_info['evaluationFrequency']) > 0:
+                        pass
+                    else:
+                        url = 'http://%s/tps/api/question/getConsumeCoin' % self.url
+                        data = {
+                            "dimensionId": "%s" % test_args['class_id'],
+                            "level": "%s" % test_args['test_level'],
+                            "type": "%s" % test_args['test_type']
+                        }
+                        check_cion = requests.post(
+                            url, 
+                            headers=self.headers, 
+                            data=json.dumps(data, ensure_ascii=False).encode(), 
+                            verify=False
+                        ).json()['data']
+                        if str(check_cion) == '1':
+                            pass
+                        else:
+                            self.logger('* Cion not enough!')
+                            break
+                
+                self.logger(' === Start test ========')
+                result = self.start_test(**test_args)
+                if result['Status'] == 0:
+                    for info in result:
+                        self.logger(' %s : %s' % (info, result[info]))
+                self.logger(' === Complite ==========')
+                self.logger('')
+                self.logger('')
+
+    
+    def start_test(self, *args, **kwargs):
+        url = 'https://%s/tps/api/question/examDescription' % self.url
+        data = {
+            "examinationId": "%s" % kwargs['paper_id']
+        }
+
+        requests.post(
+            url,
+            headers=self.headers,
+            data=json.dumps(data, ensure_ascii=False).encode(),
+            verify=False
+        )
+
+        url = "https://%s/tps/api/question/questionList" % self.url
+        data = {
+            "examinationId": int(kwargs['paper_id']),
+            "type": 1,
+            "haveAnswer": 0,
+            "questionId": "",
+            "provinces": "",
+            "city": "",
+            "county": "",
+            "resultsId": "",
+            "isend": 0,
+            "score": 0,
+            "useTime": 0,
+            "rightStatus": "",
+            "chose": "",
+            "questionTypeId": "",
+            "questionTypeName": ""
+        }
+        while True:
+            response = requests.post(
+                url, 
+                headers=self.headers, 
+                data=json.dumps(data, ensure_ascii=False).encode(), 
+                verify=False
+            )
+
+            if data['isend'] == 1:
                 break
-            haveAnswer = 1
-            resultsId = response.json()['data']['resultsId']
-            id_index = response.json()['data']['questionIndex']
-            questionId = response.json()['data']['idList'][id_index]
-            questionTypeId = response.json()['data']['questionList'][0]['questionTypeId']
-            questionTypeName = response.json()['data']['questionList'][0]['questionTypeName']
+
+            data['haveAnswer'] = 1
+            try:
+                data['resultsId'] = response.json()['data']['resultsId']
+                id_index = response.json()['data']['questionIndex']
+                data['questionId'] = response.json()['data']['idList'][id_index]
+                data['questionTypeId'] = response.json()['data']['questionList'][0]['questionTypeId']
+                data['questionTypeName'] = response.json()['data']['questionList'][0]['questionTypeName']
+                data['score'] = int(response.json()['data']['questionList'][0]['score'])
+            except:
+                for i in self.headers:
+                    print('[HEADER]%s == %s' % (i, self.headers[i]))
+                for i in data:
+                    print('[DATA] %s == %s' % (i, data[i]))
+                try:
+                    print(response.json())
+                except:
+                    print(response.text)
+                return {'Status': 1}
+
             if int(response.json()['data']['isLast']) == 1:
-                isend = 1
+                data['isend'] = 1
             right_chose = ''
             error_chose = ''
-            if int(questionTypeId) == 1 or int(questionTypeId) == 3:
+            if int(data['questionTypeId']) == 1 or int(data['questionTypeId']) == 3:
                 right_chose = response.json()['data']['questionList'][0]['rightList'][0]['questionKeyId']
                 for key_info in response.json()['data']['questionList'][0]['keyList']:
                     if key_info['id'] != right_chose:
                         error_chose = key_info['id']
                         break
             
-            if int(questionTypeId) == 2:
+            if int(data['questionTypeId']) == 2:
                 for key_info in response.json()['data']['questionList'][0]['rightList']:
                     if right_chose == '':
                         right_chose = key_info['id']
@@ -186,31 +291,35 @@ class FinishQuestion(object):
                 else:
                     error_chose = response.json()['data']['questionList'][0]['keyList'][0]['id']
 
-            if int(questionTypeId) == 4:
+            if int(data['questionTypeId']) == 4:
                 right_chose = response.json()['data']['questionList'][0]['rightList'][0]['rightContent']
                 error_chose = '@@@'
-                
 
-            if self.finish_info['finish_num'] == 0:
-                score = 0
-                useTime = int(response.json()['data']['useTime']) + 5
-                rightStatus = 0
-                chose = error_chose
-                self.logger('Question: %s == Type: %s == Result: Error' % (id_index + 1, questionTypeName))
+            if kwargs['test_num'] == 0:
+                data['score'] = 0
+                data['useTime'] = int(response.json()['data']['useTime']) + 5
+                data['rightStatus'] = 0
+                data['chose'] = error_chose
+                self.logger(' Question: %s == Type: %s == Result: Error' % (id_index + 1, data['questionTypeName']))
             else:
-                score = 5
-                useTime = int(response.json()['data']['useTime']) + 5
-                rightStatus = 1
-                chose = right_chose
-                self.finish_info['finish_num'] = self.finish_info['finish_num'] - 1
-                self.logger('Question: %s == Type: %s == Result: Right' % (id_index + 1, questionTypeName))
+                data['useTime'] = int(response.json()['data']['useTime']) + 5
+                data['rightStatus'] = 1
+                data['chose'] = right_chose
+                kwargs['test_num'] = kwargs['test_num'] - 1
+                self.logger(' Question: %s == Type: %s == Result: Right' % (id_index + 1, data['questionTypeName']))
         
         url = "https://%s/tps/api/question/practiceReport" % self.url
         data = {
             "resultsId": "%s" % response.json()['data']['resultsId']
         }
-        response = requests.post(url, headers=headers, data=json.dumps(data, ensure_ascii=False).encode(), verify=False)
+        response = requests.post(
+            url, 
+            headers=self.headers, 
+            data=json.dumps(data, ensure_ascii=False).encode(), 
+            verify=False
+        )
         result_info = {
+            'Status' : 0,
             'Teacher': response.json()['data']['username'],
             'Class': response.json()['data']['name'],
             'Score': response.json()['data']['results']
@@ -229,37 +338,27 @@ class Tools(object):
 
     def read_ini(self):
         self.ini_obj = {}
-        with open('%s/config.ini' % self.path, 'r', encoding='UTF-8') as f:
-            ini_info = f.readlines()
-
-        for i in ini_info:
-            ini_line = i.replace('\n', '')
-            if ';' in ini_line or '#' in ini_line:
+        config = configparser.ConfigParser()
+        config.read('%s/config.ini' % self.path, encoding='utf8')
+        for title in config:
+            if title == 'DEFAULT':
+                continue
+            self.ini_obj[title] = {}
+            for key in config[title]:
+                self.ini_obj[title][key] = config[title][key]
+            
+            if title == 'config':
                 continue
 
-            if '[' in ini_line and ']' in ini_line:
-                title = ini_line.replace('[', '').replace(']', '')
-                self.ini_obj[title] = {}
-                continue
-
-            if '=' in ini_line:
-                key = ini_line.replace(' ', '').split('=')[0]
-                value = ini_line.replace(' ', '').split('=')[1]
-                if title in self.ini_obj:
-                    self.ini_obj[title][key] = value
-        return
-
-    def format_info(self):
-        for i in self.ini_obj:
-            if i == 'config':
-                continue
-            for j in self.ini_obj[i]:
-                self.ini_obj[i][j] = self.ini_obj[i][j].split(',')
-                self.ini_obj[i][j][0] = int(self.ini_obj[i][j][0])
-                self.ini_obj[i][j][1] = int(self.ini_obj[i][j][1])
+            for key in self.ini_obj[title]:
+                self.ini_obj[title][key] = int(self.ini_obj[title][key])
         return
 
     def run_log(self, log):
+        if '*' in log:
+            log = log.replace('*', '[ERROR]')
+        else:
+            log = '[INFO]' + log
         print(log)
         with open('%s/run_log.txt' % self.path, 'a+', encoding='UTF-8') as f:
             f.write("%s\n" % log)
@@ -276,18 +375,15 @@ def main():
     try:
         tools = Tools(path)
         tools.read_ini()
-        tools.format_info()
-    except Exception as e:
-        print('[ERROR] Config file error!')
-        print('%s' % e)
-        return
-
-    try:
         test = FinishQuestion(tools.ini_obj, tools.run_log)
-        test.finish_class()
-    except Exception as e:
-        print('%s' % e)
+        test.start_class()
+    except:
+        print('[ERROR] ============================')
+        for i in traceback.format_exc().split('\n'):
+            print('[INFO] %s' % i)
+        print('[ERROR] ============================')
         return
 
-main()
-os.system('pause')
+
+if __name__ == "__main__":
+    main()
