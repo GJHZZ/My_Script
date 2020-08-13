@@ -1,6 +1,7 @@
-# -*- config: utf8 -*-
-# author: Jun
-# update: 2020 07 31
+# @Date : 2020 08 13
+# @Author : Tan Jun
+# @Email : heartnec@126.com
+# @File : Question_Runner
 
 import os
 import sys
